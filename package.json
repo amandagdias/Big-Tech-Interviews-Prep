@@ -1,0 +1,22 @@
+{
+  "name": "big-tech-interviews-prep",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amandagdias/Big-Tech-Interviews-Prep.git"
+  },
+  "author": "Amanda Dias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amandagdias/Big-Tech-Interviews-Prep/issues"
+  },
+  "homepage": "https://github.com/amandagdias/Big-Tech-Interviews-Prep#readme",
+  "dependencies": {
+    "ts-node": "^10.7.0"
+  }
+}
